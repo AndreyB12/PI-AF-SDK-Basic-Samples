@@ -1,7 +1,7 @@
 # PI-AF-SDK-Basic-Samples
 This repository provides self-contained and reproducible samples of basic operations using AF SDK.
 
-Each example is a separate class and output to the Console.
+Each example is a separate class and outputs to the Console.
 
 ## Solution contents
 
@@ -23,7 +23,7 @@ Each example is a separate class and output to the Console.
 Many of the examples uses the NuGreen database. To use the NuGreen database, follow these steps:
 
 1. Create an AF Database named "NuGreen".
-2. Import the database from the provided NuGreen.xml via PI System Explorer>File>Import from File.
+2. Import the database from the provided [NuGreen.xml](NuGreen.xml) via PI System Explorer>File>Import from File.
 3. Verify that a root element "NuGreen" is created inside the NuGreen database.
 4. Check in the changes if not done so already.
 
