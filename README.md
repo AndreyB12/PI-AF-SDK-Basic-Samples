@@ -43,9 +43,9 @@ Some examples depend on having run prior examples successfully. This is because 
 /// </prerequisite-examples>
 ```    
 
-###
+### Run an example
 
-To run a particular example, simply instantiate a new object from the example type and call its Run() method.
+To run a particular example, simply instantiate a new object of the desired example type and call its Run() method.
 
 To run the AFConnectionExample, for instance, use:
 ```csharp
