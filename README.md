@@ -45,7 +45,7 @@ Some examples depend on having run prior examples successfully. This is because 
 
 ### Run an example
 
-To run a particular example, simply instantiate a new object of the desired example type and call its Run() method.
+Examples are executed by the Console application. To run a particular example, simply instantiate a new object of the desired example type and call its Run() method.
 
 To run the AFConnectionExample, for instance, use:
 ```csharp
