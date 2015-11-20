@@ -2,7 +2,7 @@
 
 This repository provides self-contained and reproducible samples of basic operations using AF SDK. The aim is to provide an accessible hands-on experience with the PI AF SDK using code examples that are portable and easy to follow.
 
-Each example demonstrates a basic operation within the PI AF SDK. These examples present PI AF SDK as a set of basic "building blocks", rather than an entire "pre-packaged solution". The goal is to enable the user to learn the basic operations of PI AF SDK so they then have the tools to build more specific applications.
+Each example demonstrates a basic operation within the PI AF SDK. These examples present PI AF SDK as a set of basic "building blocks", rather than an entire "pre-packaged solution". The goal is to enable the user to learn the basic operations of PI AF SDK so they then have the tools to build more specific applications and a foundation to learn more advanced PI AF SDK concepts.
 
 ## Solution contents
 
