@@ -54,6 +54,10 @@ IExample example = new AFConnectionExample();
 example.Run()
 ```
 
+### PI AF SDK Reference guide
+
+It is recommended that for each example, the user finds the corresponding PI AF SDK method in the [online guide] (https://techsupport.osisoft.com/Documentation/PI-AF-SDK/html/1a02af4c-1bec-4804-a9ef-3c7300f5e2fc.htm). This will provide further context and reinforcement of the presented concepts.
+
 ## Recommended learning path
 
 A recommended learning path for going through the examples is as follows:
