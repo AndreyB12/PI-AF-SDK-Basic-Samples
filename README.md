@@ -8,7 +8,7 @@ Each example demonstrates a basic operation within the PI AF SDK. These examples
 
 `ExamplesLibrary` contains the examples. Each example is a separate class and outputs to the Console.
 
-`PI-AF-SDK-Basic-Samples-Console` contains the Console application that runs the examples.
+`PI-AF-SDK-Basic-Samples` contains the Console application that runs the examples.
 
 ## Requirements
 
