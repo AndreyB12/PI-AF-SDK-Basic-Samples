@@ -122,4 +122,4 @@ Copyright 2015 OSIsoft, LLC.
    See the License for the specific language governing permissions and
    limitations under the License.
    
-Please see the file named [LICENSE.md](LICENSE.md).
+Please see the file named [LICENSE.txt](LICENSE.txt).
